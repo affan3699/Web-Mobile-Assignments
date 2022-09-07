@@ -1,6 +1,7 @@
-# Web-Mobile-Assignment-1
+# Web-Mobile-Assignments
 
-# Screenshot
+## Assignment 1
+
 <div>
 <img src="image.PNG" alt="phone image"/>
 </div>
